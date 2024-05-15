@@ -9,5 +9,4 @@ This is a simple Tic Tac Toe game built using Java's Abstract Window Toolkit (AW
 - Automatic winner detection and announcement.
 - "New Game" option to reset the game.
 
-## How to Run
-1. git clone https://github.com/davegallegoss/tictactoe.git
+
